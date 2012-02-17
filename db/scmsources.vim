@@ -598,7 +598,7 @@ let scmnr.3871 = {'type': 'git', 'url': 'git://github.com/molok/vim-smartusline'
 let scmnr.3905 = {'type': 'git', 'url': 'git://github.com/molok/vim-vombato-colorscheme'}
 
 " Mick Koch
-let scmnr.3590 = {'type': 'git', 'url': 'git://github.com/kchmck/vim-coffee-script'}
+let scmnr.3590 = {'type': 'git', 'url': 'https://github.com/kchmck/vim-coffee-script.git'}
 
 " Luc Hermitte
 " Some plugins are bundled in one repository http://lh-vim.googlecode.com/svn/misc/trunk. They are not included here
